@@ -1,4 +1,4 @@
-# Hi, I'm CodexSan00 ☕🐈
+# Hi, I'm CodexSan00 ☕🐈🧉🇦🇷
 
 ### 🚀 Software Developer | Focus on Robust Backend & Desktop Solutions
 
@@ -24,7 +24,7 @@ My current flagship project. A desktop management system built with **Java** and
 ---
 
 ## 🌐 Languages
-- **Spanish:** Native.
+- **Spanish:** Native. 🇦🇷
 - **English:** Professional Working Proficiency (B2/C1).
 - **Chinese:** Beginner (Currently learning the basics 🍚💧).
 
