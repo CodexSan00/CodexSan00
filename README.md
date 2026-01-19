@@ -10,7 +10,7 @@ I am a software developer committed to building robust and efficient systems. Af
 | :--- | :--- |
 | **Primary Language** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **System Logic** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **System Logic** | ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B%20Foundations-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **Future Interest** | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
 
 ---
