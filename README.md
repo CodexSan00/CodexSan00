@@ -15,14 +15,6 @@ I am a software developer committed to building robust and efficient systems. Af
 
 ---
 
-## 🏗️ Current Projects
-
-### 🏋️‍♂️ [GymApp](https://github.com/CodexSan00/GymApp)
-My current flagship project. A desktop management system built with **Java** and **PostgreSQL**. 
-* **Focus:** Layered architecture (DAO, Factory), relational data integrity, and professional UI localization.
-
----
-
 ## 🌐 Languages
 - **Spanish:** Native. 🇦🇷
 - **English:** Professional Working Proficiency (B2/C1).
