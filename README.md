@@ -15,6 +15,11 @@ I am a software developer committed to building robust and efficient systems. Af
 
 ---
 
+## 📌 Projects
+**VCI Log Parser - Autocom Report Extractor**
+A web application built with **Java + Spring Boot** that automates the parsing of diagnostic PDF reports from Autocom scanners, extracting vehicle data and DTC codes into a relational database.
+- **[VCI Log Parser](https://github.com/CodexSan00/vci-log-parser)**
+
 ## 🌐 Languages
 - **Spanish:** Native. 🇦🇷
 - **English:** Professional Working Proficiency (B2/C1).
